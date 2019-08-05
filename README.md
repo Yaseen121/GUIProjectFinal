@@ -7,10 +7,12 @@ A weather app built with React for runners.
 
 > On the homepage, the user is presented with the current weather conditions for their location. The user is also able to enter any time during the day along with a value for how long they would like to run, and the app would then present a forecast for that time period. 
 
+### Forecast
 ![react-weather-app-forecast](https://i.imgur.com/bF0jyZS.png)
 
 > The forecast page shows the user the forecast of the weather condtions, along with appropaite icons representing the condtions for the remainder of the day. 
 
+### Optimise
 ![react-weather-app-optimise](https://i.imgur.com/TYQBHk5.png)
 
 > The optimise page includes a timer for runners to time their run. This page also allows the user to input their prefered minimum and maximum temperatures, afterwhich the app would present to the user only the hours which match these condtions. 
