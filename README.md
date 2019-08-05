@@ -1,3 +1,11 @@
+# Group Project Contributors:
+ - The [Yaseen Sultan](https://github.com/Yaseen121)
+ - The [Aasif Khan](https://github.com/Blazero100)
+ - The [Jaymin Shah](https://github.com/Jaymin97)
+ - The [Sehbaan Ali](https://github.com/Sehbaan)
+ - The [Maksym Sokolenko](https://github.com/MaksymSok)
+    
+
 # GUI Project Final - Weather App 
 
 A weather app built with React for runners.
