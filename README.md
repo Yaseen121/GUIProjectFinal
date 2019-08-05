@@ -1,11 +1,3 @@
-# Group Project Contributors:
- - The [Yaseen Sultan](https://github.com/Yaseen121)
- - The [Aasif Khan](https://github.com/Blazero100)
- - The [Jaymin Shah](https://github.com/Jaymin97)
- - The [Sehbaan Ali](https://github.com/Sehbaan)
- - The [Maksym Sokolenko](https://github.com/MaksymSok)
-    
-
 # GUI Project Final - Weather App 
 
 A weather app built with React for runners.
@@ -41,3 +33,10 @@ npm run build
 
  - The [wunderground.com](https://www.wunderground.com/) API service has been discontinued and no longer provides support for clients hence the project no longer works as intended. 
 
+# Group Project Contributors:
+ -  [Yaseen Sultan](https://github.com/Yaseen121)
+ -  [Aasif Khan](https://github.com/Blazero100)
+ -  [Jaymin Shah](https://github.com/Jaymin97)
+ -  [Sehbaan Ali](https://github.com/Sehbaan)
+ -  [Maksym Sokolenko](https://github.com/MaksymSok)
+    
