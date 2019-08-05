@@ -2,7 +2,7 @@
 
 > A weather app built with React.
 
-[![react-weather-app](https://imgur.com/kncKOt2)]
+[![react-weather-app](https://i.imgur.com/kncKOt2.png)]
 
 ## Installation
 
