@@ -1,4 +1,4 @@
-# GUI Project Final - Weather App 
+# GUI Project Final - Weather App (Spring 2018)
 
 A weather app built with React for runners.
 
